@@ -1,0 +1,3 @@
+<{listDictionary,dictionarySet,engine}.ml>: coverage
+<test.{byte,native}>: coverage
+true: package(unix), package(oUnit), package(qcheck), package(str)
